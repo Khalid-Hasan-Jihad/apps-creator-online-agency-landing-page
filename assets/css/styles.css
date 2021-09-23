@@ -1,3 +1,6 @@
+body{
+    font-family: 'Roboto', sans-serif;;
+}
 .top-sec {
     background: #8d8fdb;
     height: 650px;
@@ -189,4 +192,8 @@ header .app-market{
 .copyright {
     font-size: 14px;
     color: #8a8a8a;
+}
+
+.popp {
+    font-family: 'Poppins', sans-serif;
 }

@@ -4,6 +4,10 @@
     color: #fff !important;
 }
 
+header .app-market{
+    max-width: 170px;
+}
+
 .download-btn {
     background: #fff;
     font-weight: 600;
